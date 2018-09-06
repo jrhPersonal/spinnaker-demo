@@ -25,4 +25,5 @@ public class DemoController {
         logger.info("Meeseeks");
         return "demo";
     }
+    
 }
